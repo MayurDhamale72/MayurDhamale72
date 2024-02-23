@@ -1,10 +1,10 @@
 # 💫 About Me:
-Software Engineer Intern at SRW Software 
-🌱 I’m currently working on React and React-Native Applications.
-🔭 I like to work on Front-end as well as well as Back-end projects
-👨‍💻 All of my projects are available at https://github.com/MayurDhamale72
-💬 Ask me about python, React and React-Native Applications  !
-📫 How to reach me mayurdhamale72@gmail.com 
+Software Engineer Intern at SRW Software <br/>
+🌱 I’m currently working on React and React-Native Applications. <br/>
+🔭 I like to work on Front-end as well as well as Back-end projects <br/>
+👨‍💻 All of my projects are available at https://github.com/MayurDhamale72<br/>
+💬 Ask me about python, React and React-Native Applications  ! <br/>
+📫 How to reach me mayurdhamale72@gmail.com <br/>
 
 
 ## 🌐 Socials:
